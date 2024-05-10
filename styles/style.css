@@ -56,3 +56,6 @@ body {
 .carousel {
   overflow-x: none;
 }
+.footer {
+  row-gap: 1.3rem;
+}
