@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.navbar-end {
+  width: 40%;
+  height: 100%;
+}
+.navbar-end .searchbar {
+  width: 60%;
+  height: 100%;
+  border: 0;
+  border-radius: 30px;
+  background-color: white;
+  margin-right: 9px;
+}
+
+.navbar-end input {
+  border: 0;
+  outline: 0;
+}
+.btn-primary {
+  background-color: #f85559;
+  padding: 0.8rem 1.5rem;
+  color: white;
+  border-radius: 5px;
+}
+.btn-secondary {
+  background-color: white;
+  color: #f85559;
+  border: 1px solid #f85559;
+  padding: 0.8rem 1.5rem;
+  border-radius: 5px;
+}
+.btn-primary:hover {
+  background-color: white;
+  color: #f85559;
+  border: 1px solid #f85559;
+}
+.btn-secondary:hover {
+  background-color: #f85559;
+  color: white;
+}
+.banner-fruit div {
+  width: 100%;
+}
+.banner-fruit img {
+  width: 80px;
+  height: 70px;
+  margin: auto;
+}
+.banner-fruit {
+  top: 83%;
+  left: 13%;
+}
+.carousel {
+  overflow-x: none;
+}
